@@ -2,7 +2,8 @@
 The newest version of the mod when Malice difficulty wasn't removed. I'm not the creator of the mod and not trying to and I'm not trying to present myself as the creator or current owner. The official page on Steam - https://steamcommunity.com/sharedfiles/filedetails/?id=2824688072
 
 Since github doesn't allow me to upload files 25mb+ i'll upload them at other platforms 
-Your can download the 2.0.0.3 version at:
+
+You can download 2.0.0.3 version at:
 
 Mega: https://mega.nz/folder/J7JTXZSQ#KCQ5o7OA-Ztw_8FdKvbZZg
 
