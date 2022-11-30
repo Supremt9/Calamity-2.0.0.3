@@ -3,7 +3,7 @@ The newest version of the mod when Malice difficulty wasn't removed. I'm not the
 
 Since github doesn't allow me to upload files 25mb+ i'll upload them at other platforms 
 Your can download the 2.0.0.3 version at:
-Mega: https://mega.nz/folder/J7JTXZSQ#KCQ5o7OA-Ztw_8FdKvbZZg
+    Mega: https://mega.nz/folder/J7JTXZSQ#KCQ5o7OA-Ztw_8FdKvbZZg
 Google Drive: https://drive.google.com/drive/folders/1xOXeqfAnFYhCGL8c1ARCsLZbzdCytyL3?usp=share_link
 MediaFire: https://www.mediafire.com/folder/k5y2igho0dvet/Calamity+2.0.0.3
 
